@@ -1,0 +1,242 @@
+.first{
+    float: left;
+    width: 80%;
+    height: 200px;
+    background-color: aliceblue;
+    padding: 10px;
+}
+.second{
+    float: left;
+    width: 15%;
+    height: 200px;
+    background-color: cyan;
+    padding: 10px;
+}
+.third{
+    float: left;
+    width: 30%;
+    height: 350px;
+    background-color:  gold;
+    padding: 10px;
+}
+.forth{
+    float: left;
+    width: 48%;
+    height: 350px;
+    border: 3px solid black;
+    padding: 10px;
+}
+.fifth{
+    float: left;
+    width: 15%;
+    height: 100px;
+    background-color:  aliceblue;
+    padding: 10px;
+}
+.sixth{
+    float: left;
+    width: 15%;
+    height: 225px;
+    border: 3px solid black;
+    padding: 10px;
+}
+.seventh{
+    float: left;
+    width: 20%;
+    height: 200px;
+    border: 3px solid black;
+    padding: 10px;
+}
+.eighth{
+    float: left;
+    width: 58%;
+    height: 200px;
+    background-color:  aliceblue;
+    padding: 10px;
+}
+.ninth{
+    float: left;
+    width: 15%;
+    height: 200px;
+    border: 3px solid black;
+    padding: 10px
+}
+.tenth{
+    float: left;
+    width: 50%;
+    height: 144px;
+    border: 3px solid black;
+    padding: 10px
+}
+.eleventh{
+    float: left;
+    width: 28%;
+    height: 150px;
+    background-color: gainsboro;
+    padding: 10px
+}
+.twelveth{
+    float: left;
+    width: 15%;
+    height: 150px;
+    background-color:  gold;
+    padding: 10px
+}
+.thirteenth{
+    float: left;
+    width: 15%;
+    height: 250px;
+    background-color: coral;
+    padding: 10px
+}
+.forteenth{
+    float: left;
+    width: 40%;
+    height: 250px;
+    background-color: antiquewhite;
+    padding: 10px
+}
+.fifteenth{
+    float: left;
+    width: 38%;
+    height: 250px;
+    background-color: antiquewhite;
+    padding: 10px
+}
+.sixteen{
+    float: left;
+    width: 96%;
+    height: 200px;
+    background-color: antiquewhite;
+    padding: 10px
+}
+.seventeen{
+    float: left;
+    width: 15%;
+    height: 250px;
+    background-color: darkseagreen;
+    padding: 10px
+}
+.eighteen{
+    float: left;
+    width: 39%;
+    height: 250px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: auto;
+}
+.ninteen{
+     float: left;
+     width: 39%;
+     height: 250px;
+     background-color: antiquewhite;
+     padding: 10px;
+     margin: auto;
+}
+.tewenty{
+    float: left;
+    width: 43%;
+    height: 300px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+.tewentyOne{
+    float: left;
+    width: 52%;
+    height: 300px;
+    background-color: antiquewhite;
+    padding: 10px;
+}
+
+#first img{
+    float: right;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#blueBox{
+    width: 100px;
+    height: 100px;
+    border: 6px solid cyan;
+    color: cyan;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 48px;
+}
+#second{
+    font-size: 10px;
+}
+#whitebox{
+    margin: auto;
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    border: 6px solid white;
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+#third{
+    font-size: 20px;
+    color: white;
+}
+a:hover{
+    color: #000;
+    font-size: 40px;
+}
+a:link{
+    text-decoration: none;
+    color: white;
+}
+a:active {
+    color: blue;
+}
+.bold{
+    font-size: 50px;
+}
+#forth img{
+    float: right;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#fifth img{
+    float: right;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#sixth img{
+    margin:auto;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#seventh img{
+    float: right;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#eighth img{
+    float: left;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+#teneth img{
+    margin: auto;
+    z-index: -1;
+}
+#eleventh img{
+    float: left;
+    margin: 0 0 10px 10px;
+    z-index: -1;
+}
+img{
+    float: right;
+    z-index: -1;
+}
+#blueBox2{
+    width: 100px;
+    height: 100px;
+    border: 6px solid cyan;
+    color: cyan;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 48px;
+}
+
+
